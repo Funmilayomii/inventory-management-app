@@ -1,0 +1,28 @@
+[
+    {
+      "name": "necklace",
+      "price": 50,
+      "size": "small",
+      "id": 1
+    },
+    {
+      "name": "purse",
+      "price": 70,
+      "size": "large",
+      "id": 2
+    },
+    {
+      "name": "Face cap",
+      "price": 50,
+      "size": "medium",
+      "id": 5
+    },
+    {
+      "name": "long vest",
+      "price": 99,
+      "size": "medium"
+    },
+    {
+      "id": null
+    }
+  ]
